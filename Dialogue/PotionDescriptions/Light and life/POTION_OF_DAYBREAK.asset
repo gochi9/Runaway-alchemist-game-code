@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_DAYBREAK
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Daybreak Potion to restore my energy.
+  - Could you provide a Daybreak Potion for my weary friend?
+  - A Daybreak Potion would help me tackle the day ahead.
+  - Do you have a Daybreak Potion? I need to feel refreshed.
+  - I need a Daybreak Potion to recover from my fatigue.
+  - Might I get a Daybreak Potion for my long journey?
+  - A Daybreak Potion would be perfect for my early start.
+  - Please, I need a Daybreak Potion to feel rejuvenated.
+  - Could I purchase a Daybreak Potion for my exhausted spouse?
+  - A Daybreak Potion would help me face the challenges of the day.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

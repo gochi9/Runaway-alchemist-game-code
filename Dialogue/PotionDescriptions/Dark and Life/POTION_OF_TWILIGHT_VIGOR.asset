@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_TWILIGHT_VIGOR
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - '"I need a Twilight Vigor to enhance my strength."'
+  - '"Could you provide a Twilight Vigor for my training?"'
+  - '"A Twilight Vigor would help me in my stealth missions."'
+  - '"Do you have a Twilight Vigor? I need to be stronger and see in the dark."'
+  - '"I need a Twilight Vigor for my challenging tasks."'
+  - '"Might I get a Twilight Vigor for my secret operations?"'
+  - '"A Twilight Vigor would be perfect for my physical training."'
+  - '"Please, I need a Twilight Vigor to improve my low-light vision."'
+  - '"Could I purchase a Twilight Vigor for my upcoming mission?"'
+  - '"A Twilight Vigor would help me in my covert activities."'
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

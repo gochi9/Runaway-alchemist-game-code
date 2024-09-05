@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_HEALING
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - Please, I need a Healing Tonic for my injured brother.
+  - Can you spare a Healing Tonic? My child has fallen ill.
+  - A Healing Tonic would help me get back on my feet.
+  - "Do you have any Healing Tonics? I\u2019ve hurt myself badly."
+  - I need a Healing Tonic to aid a wounded traveler.
+  - Could you provide a Healing Tonic for our village healer?
+  - A Healing Tonic would ease my elderly father's pain.
+  - Might I purchase a Healing Tonic for my injured hand?
+  - "I\u2019ve heard your Healing Tonics work wonders, may I have one?"
+  - A Healing Tonic is just what we need for our injured guard.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

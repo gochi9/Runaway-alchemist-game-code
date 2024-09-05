@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_BRIGHT
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Radiant Brew to light our way through the forest.
+  - Could you spare a Radiant Brew for our journey at night?
+  - A Radiant Brew would help us explore the ancient ruins.
+  - Do you have a Radiant Brew? The village needs light.
+  - I need a Radiant Brew to guide us through the tunnels.
+  - Might I get a Radiant Brew for our nighttime celebration?
+  - A Radiant Brew would brighten our path during the storm.
+  - Please, I need a Radiant Brew for our late-night search party.
+  - Could I purchase a Radiant Brew for my nocturnal travels?
+  - A Radiant Brew would be perfect for our evening festival.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

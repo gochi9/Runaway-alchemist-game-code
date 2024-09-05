@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_DARK_REJUVENATION
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - '"I need a Dark Rejuvenation for my injured brother."'
+  - '"Could you provide a Dark Rejuvenation for my wounded friend?"'
+  - '"A Dark Rejuvenation would help me recover and stay hidden."'
+  - '"Do you have a Dark Rejuvenation? I need to heal and escape."'
+  - '"I need a Dark Rejuvenation for my injured comrade."'
+  - '"Might I get a Dark Rejuvenation for our wounded scout?"'
+  - '"A Dark Rejuvenation would be perfect for my recovery in hiding."'
+  - '"Please, I need a Dark Rejuvenation to heal in the shadows."'
+  - '"Could I purchase a Dark Rejuvenation for my injured companion?"'
+  - '"A Dark Rejuvenation would help me heal and evade danger."'
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

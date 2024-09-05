@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_GOLDEN_SHIELD
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Golden Shield to protect our village.
+  - Could you provide a Golden Shield for our brave knight?
+  - A Golden Shield would help us in the upcoming battle.
+  - Do you have a Golden Shield? We need to defend our home.
+  - I need a Golden Shield for my journey through dangerous lands.
+  - Might I get a Golden Shield for our guard?
+  - A Golden Shield would be perfect for our expedition.
+  - Please, I need a Golden Shield to protect my family.
+  - Could I purchase a Golden Shield for our vulnerable healer?
+  - A Golden Shield would help us feel safe in the wild.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

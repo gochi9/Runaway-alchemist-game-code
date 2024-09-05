@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: Intro_1_Dialogue 2
+  m_EditorClassIdentifier: 
+  dialogueId: INTRO_PART_2
+  lines:
+  - That you might be the light of your family!
+  - "The time is just right; there won\u2019t be attention drawn towards you, at
+    least not for a while. You\u2019ll have to operate from the shadows, in your
+    dark and gloomy basement filled with stagnant air and lit by candlelight."
+  - "Trying to get more fancy ingredients is out of the question; you\u2019ll need
+    to use what grows on your walls: the grass, the mold, the moss, the fungi\u2014anything
+    that looks like it might have life. You\u2019ll need to deal with shady individuals
+    and hone your skills."
+  - "While you can use the bar as a fa\xE7ade, that won\u2019t hold for very long.
+    Suspicion will arise, and you might have to hide your crafts during inspections.
+    Your brother will be beside you, gathering some materials for you and picking
+    up orders from individuals that might be trustworthy. Though your cellar door
+    may welcome other guests."
+  - "Your plan is to run away to the other side of the continent with your brother,
+    where the church\u2019s reach is almost nonexistent\u2014a land where people
+    like you might thrive, and your knowledge is guaranteed to bring you success,
+    ensuring your family legacy survives."
+  - "Don\u2019t get too excited; you\u2019ll have to stay low for now. Remember to
+    move as discreetly as a shadow; don\u2019t gather attention. You\u2019ll need
+    50,000 pena, your country\u2019s main currency, a coin made of a mixture of gold,
+    copper, bronze, and silver. 25,000 for each."
+  - Your adventure begins here and now. Quickly! Familiarize yourself better with
+    the place you might spend the rest of your life in.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 11400000, guid: 4d8f9dfeb72e4554ba95f675c51c20bf, type: 2}
+  dialogueAction: 0

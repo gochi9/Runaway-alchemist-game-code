@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_ECLIPSE_HEALTH
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - '"I need an Eclipse Health to stay healthy and hidden."'
+  - '"Could you provide an Eclipse Health for my sick friend?"'
+  - '"An Eclipse Health would help me stay healthy and unseen."'
+  - '"Do you have an Eclipse Health? I need to recover in secret."'
+  - '"I need an Eclipse Health to boost my immunity and stealth."'
+  - '"Might I get an Eclipse Health for my ailing mother?"'
+  - '"An Eclipse Health would be perfect for my recovery in darkness."'
+  - '"Please, I need an Eclipse Health to stay well and hidden."'
+  - '"Could I purchase an Eclipse Health for my sick companion?"'
+  - '"An Eclipse Health would help me stay healthy and unnoticed."'
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

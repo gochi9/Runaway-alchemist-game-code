@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_LIGHTFOOT
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Lightfoot Elixir for my race tomorrow.
+  - Could you provide a Lightfoot Elixir to help me catch up with my group?
+  - A Lightfoot Elixir would help me outrun the wolves.
+  - Do you have a Lightfoot Elixir? I need to travel quickly.
+  - I need a Lightfoot Elixir to reach the village before nightfall.
+  - Might I get a Lightfoot Elixir for my messenger duties?
+  - A Lightfoot Elixir would aid me in evading capture.
+  - Please, I need a Lightfoot Elixir for the hunt.
+  - Could I purchase a Lightfoot Elixir for my scouting mission?
+  - A Lightfoot Elixir would help me perform better in my training.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

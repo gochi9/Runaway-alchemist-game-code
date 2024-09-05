@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTVIEW
+  m_EditorClassIdentifier: 
+  dialogueId: POTVIEW
+  lines:
+  - The main pot, the heart of your job.
+  - 'The upper, lower, right, and right circles indicate life, death, light, and
+    darkness respectively. '
+  - Each ingredient can have either one or two elements. Use those values to guide
+    yourself and create potions.
+  - The corner circles tell you when you can create a potion, and the higher the
+    number, the higher its concentration. When you feel ready to create a potion,
+    take the spoon in the corner and stir the pot to complete it.
+  - Be careful, certain combinations can lead the potion to become unstable. The
+    darker the water gets, the closer you are to failing.
+  - There are a total of 40 potions. There are no potions in the death area currently.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

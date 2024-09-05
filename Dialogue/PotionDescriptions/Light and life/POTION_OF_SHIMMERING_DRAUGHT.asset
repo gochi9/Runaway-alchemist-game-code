@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_SHIMMERING_DRAUGHT
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Shimmering Draught to stay awake during my watch.
+  - Could you provide a Shimmering Draught for my night study?
+  - A Shimmering Draught would help me finish my work.
+  - "Do you have any Healing Tonics? I\u2019ve hurt myself badly."
+  - I need a Shimmering Draught for my long journey.
+  - Might I get a Shimmering Draught for my tiring task?
+  - A Shimmering Draught would be perfect for the night patrol.
+  - Please, I need a Shimmering Draught to complete my project.
+  - Could I purchase a Shimmering Draught for my late-night research?
+  - A Shimmering Draught would help me stay focused during my vigil.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

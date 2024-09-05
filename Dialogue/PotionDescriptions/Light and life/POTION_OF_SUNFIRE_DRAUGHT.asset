@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_SUNFIRE_DRAUGHT
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Sunfire Draught to light our campfire.
+  - Could you provide a Sunfire Draught for my fire magic practice?
+  - A Sunfire Draught would help me in the cold nights.
+  - Do you have a Sunfire Draught? I need to keep warm.
+  - I need a Sunfire Draught to fend off wild animals.
+  - Might I get a Sunfire Draught for my survival training?
+  - A Sunfire Draught would be perfect for our evening gathering.
+  - Please, I need a Sunfire Draught to light the way.
+  - Could I purchase a Sunfire Draught for our hunting trip?
+  - A Sunfire Draught would help me with my fire spells.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

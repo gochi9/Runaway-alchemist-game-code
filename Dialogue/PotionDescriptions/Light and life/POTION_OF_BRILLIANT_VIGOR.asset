@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_BRILLIANT_VIGOR
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Brilliant Vigor to carry these heavy loads.
+  - Could you provide a Brilliant Vigor for our blacksmith?
+  - A Brilliant Vigor would help me in the upcoming competition.
+  - Do you have a Brilliant Vigor? I need to perform a great feat of strength.
+  - I need a Brilliant Vigor for my laborious tasks.
+  - Might I get a Brilliant Vigor for my training?
+  - A Brilliant Vigor would be perfect for our strongmen.
+  - Please, I need a Brilliant Vigor to protect my village.
+  - Could I purchase a Brilliant Vigor for my wrestling match?
+  - A Brilliant Vigor would help me defend our lands.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

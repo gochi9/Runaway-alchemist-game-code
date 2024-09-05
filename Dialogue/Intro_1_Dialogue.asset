@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: Intro_1_Dialogue
+  m_EditorClassIdentifier: 
+  dialogueId: INTRO_PART_1
+  lines:
+  - You are a member of a proud family, a family with a long history in poetry, literature,
+    and the arts. However, time has not been kind to you, your brother, or your parents,
+    nor to your recent ancestors. Your talent has simply diminished over time.
+  - Now, the only thing you have left is the legacy of your family, as you are unable
+    to reciprocate and continue it. Currently, you own a bar inside one of the buildings
+    owned by your ancestors. This is all that has remained, with a basement overrun
+    with mushrooms, plants, mold, moss, and other growths. No matter how many you
+    pick up, they always grow back.
+  - "You are more of the studious type, not attracted to the arts. It\u2019s a pity,
+    for the people in the current era have started to lose faith in the church and
+    wars, and now a reformation is underway. Everyone is looking to literature, paintings,
+    furniture, architecture, politics, and much more. Your ancestors would have been
+    even more famous if they were still alive. Alas, it is you who lives in this
+    current time."
+  - One fateful night, when you drowned your sorrows in alcohol, alone because your
+    brother was out late running some errands, you felt everything was starting to
+    go downhill and the legacy of your family falling even lower than rock bottom.
+    You decided to study and read again the short stories and poems of your family.
+  - In your drunken stupor, you sprawled everything on the floor and opened them.
+    It might have been your intoxicated conscience, but something began to look amiss.
+    Individually, they seemed like normal, really good pieces of literature, each
+    with a message written by the author.
+  - However, looking at more of them at the same time, something began to emerge.
+    Certain characters seemed to symbolize specific elements, and specific plot points
+    resembled some sort of processes. Lines in poems formed acrostics that hinted
+    at deeper meanings, and hidden letters revealed instructions when the book was
+    hit directly by moonlight with the shadows of a candle nearby. The rich descriptions
+    and metaphors in the literature pointed toward concealed messages.
+  - 'With a pen in hand and a few good hours, you resolved to uncover the secret
+    meaning behind the legacy left by your family. The uncovered messages read as
+    follows:'
+  - "\u201CTo our kin, the descendants of a noble lineage, we share the tale of our
+    ancestors, masters of alchemy. Once, they created wonders by transmuting elements.
+    But when the church deemed our practices pagan, we hid our knowledge in poetry
+    and prose, preserving our wisdom through literature."
+  - "\u201COur blood has a unique property: it messes with our, that\u2019s why we
+    are colorblind, but at the same time it has certain magical properties, which
+    is key to revealing hidden truths in our family texts under certain conditions.\u201C"
+  - "\u201CThe cauldrons in our cellar holds alchemical secrets visible only to our
+    bloodline.\u201D"
+  - "\u201CThe basements of our homes are enchanted realms, teeming with life. The
+    mushrooms, plants, mold, and moss that thrive therein are not mere nuisances
+    but essential ingredients for our alchemical endeavors. In these sacred spaces,
+    nature herself conspires to provide the fundamental elements we require.\u201D"
+  - "\u201CIf the world becomes safe for our art again, revive our traditions. If
+    not, preserve this knowledge for the future, when alchemy will be practiced once
+    more. Our work endures, awaiting a more enlightened age.\u201D"
+  - "Reading this, you\u2019ve found out the secret and the origins of your family. "
+  - 'Alchemy! '
+  - 'Famous alchemists, the majority of whom have been driven to extinction during
+    a time when the church had a lot of power. '
+  - "However, in today's age, the church is not as powerful as before, and people\u2019s
+    attention has switched to something more important. The time is prime now! That
+    means\u2026"
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 1

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_BRIGHT_MIND
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Bright Mind Potion to help with my studies.
+  - Could you provide a Bright Mind Potion for my exams?
+  - A Bright Mind Potion would aid me in solving this riddle.
+  - Do you have a Bright Mind Potion? I need to focus on my research.
+  - I need a Bright Mind Potion to clear my head for the council meeting.
+  - Might I get a Bright Mind Potion for my important speech?
+  - A Bright Mind Potion would help me concentrate on my spellcasting.
+  - Please, I need a Bright Mind Potion for my strategic planning.
+  - Could I purchase a Bright Mind Potion for my scholarly pursuits?
+  - A Bright Mind Potion would be perfect for my creative work.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

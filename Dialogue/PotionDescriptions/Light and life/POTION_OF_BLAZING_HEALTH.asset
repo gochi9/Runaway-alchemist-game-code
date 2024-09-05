@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_BLAZING_HEALTH
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Blazing Health to recover from this illness.
+  - Could you provide a Blazing Health for my bedridden sister?
+  - A Blazing Health would help me regain my strength.
+  - Do you have a Blazing Health? I need to overcome this fatigue.
+  - I need a Blazing Health to endure this harsh weather.
+  - Might I get a Blazing Health for my injured comrades?
+  - A Blazing Health would be perfect for my recovery.
+  - Please, I need a Blazing Health to bolster my energy.
+  - Could I purchase a Blazing Health for my ailing father?
+  - A Blazing Health would help me withstand these tough conditions.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

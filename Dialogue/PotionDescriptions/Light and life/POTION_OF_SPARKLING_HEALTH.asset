@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_SPARKLING_HEALTH
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Sparkling Health Potion to fend off illness.
+  - Could you provide a Sparkling Health Potion for my ailing father?
+  - A Sparkling Health Potion would help me stay strong through the winter.
+  - Do you have a Sparkling Health Potion? My child is very weak.
+  - I need a Sparkling Health Potion to boost my energy for the festival.
+  - Might I get a Sparkling Health Potion for my ailing wife?
+  - A Sparkling Health Potion would be perfect for my recovery.
+  - Please, I need a Sparkling Health Potion to maintain my health.
+  - Could I purchase a Sparkling Health Potion for my elderly mother?
+  - A Sparkling Health Potion would help me get through this cold season.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0

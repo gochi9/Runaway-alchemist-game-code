@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe4264e814a73a4dabd2ae662119b5c, type: 3}
+  m_Name: POTION_OF_RADIANT_WHISPER
+  m_EditorClassIdentifier: 
+  dialogueId: 
+  lines:
+  - I need a Radiant Whisper to seek guidance from the spirits.
+  - Could you provide a Radiant Whisper for our seer?
+  - A Radiant Whisper would help me commune with light spirits.
+  - Do you have a Radiant Whisper? I need to contact my ancestors.
+  - I need a Radiant Whisper to understand the spirit's message.
+  - Might I get a Radiant Whisper for our sacred ritual?
+  - A Radiant Whisper would be perfect for our spiritual quest.
+  - Please, I need a Radiant Whisper to hear the spirits' wisdom.
+  - Could I purchase a Radiant Whisper for my spiritual journey?
+  - A Radiant Whisper would help me connect with the ethereal realm.
+  dialogueButtonTypes: 
+  nextDialogue: {fileID: 0}
+  dialogueAction: 0
